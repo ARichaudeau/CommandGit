@@ -31,3 +31,6 @@ Permet de connaitre sur quel commit nous sommes positionnés.
 >commit c8e8a6e663828c0753ba21e163237ab7bd4bf17b (HEAD -> master)
 >Author: ARichaudeau <>
 >Date: Mon Nov 12 14:20:27 2018 +0100
+
+#### Git fetch
+A toi d'ajouter la description
